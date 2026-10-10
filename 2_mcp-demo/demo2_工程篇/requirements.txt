@@ -1,0 +1,11 @@
+# MCP 官方 Python SDK（协议层）
+mcp>=1.2.0
+
+# OpenAI 兼容客户端（对接本地 Ollama）
+openai>=1.30.0
+
+# 外部 API 请求（小小API）
+requests>=2.31.0
+
+# 读取 .env 配置
+python-dotenv>=1.0.0
